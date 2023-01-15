@@ -16,8 +16,18 @@ user ile ilgililer baska bir klasor altında olmalı mı?
 2. Calısmalar sadece kendi branchinde yapılmalı
 
 3. Proje acıldıgında ilk olarak main branch te pull yapılıp
+* git checkout main
+* git pull
 kendi branchimize geciş yapılmalı
+* git checkout asan
 
-4. pull request te bulunduktan sonra sorumludan dan baska kimse
+4. yaptıgımız calısmalar;
+* git add .
+* git commit -m "calısmanızla ilgili yorum yazınız"
+* git push
+
+5. pull request te bulunduktan sonra sorumludan dan baska kimse
 merge onayı yapmamalı.
+* https://github.com/krmsan/com.qualitydemy01_TestNG/pull/new/asan
+url e gidip pull request talebinde bulunulmalı
 
