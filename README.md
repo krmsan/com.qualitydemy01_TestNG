@@ -41,5 +41,3 @@ url e gidip pull request talebinde bulunulmalı
 * kabul edip merge yaparak projeyi gunceller
 * sonra tum team e proje guncellendi pull ediniz mesajı atmalı mı
 
-
-8. 
