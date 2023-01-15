@@ -7,7 +7,8 @@ acıklamak için yorum satırı eklenmeli.
 3. Test methodlarında belirtilmiş ise @Test(groups = {"minireg1","smoke"}) seklinde tanımlar olamalı
 4. Locate almadan önce ilgili Page de varmı bakılmalı
 5.  instructor ile ilgili testler bir packages altında 
-user ile ilgililer baska bir klasor altında olmalı mı? 
+user ile ilgililer baska bir klasor altında olmalı mı?
+6. Test class isimleri Tc01_login seklinde olmalı?
 ## arkadaslar aklınıza gelen birsey var ise ekleyin toplantıda konusalım
 
 # GİT
@@ -32,3 +33,13 @@ merge onayı yapmamalı.
 * https://github.com/krmsan/com.qualitydemy01_TestNG/pull/new/asan
 url e gidip pull request talebinde bulunulmalı
 
+6. Push lamadan önce mainden pull yapılıp sonra kendi branchimize merge yapmalıyız
+7. Push lamadan önce Team leade haber verilmeli mi?
+* aynı anda baska biri daha push lar ise ne olur :)
+* Pushlayacagım proje guncel mi diye sormalımıyız
+* team lead her pushlamadan sonra pull requesti 
+* kabul edip merge yaparak projeyi gunceller
+* sonra tum team e proje guncellendi pull ediniz mesajı atmalı mı
+
+
+8. 
