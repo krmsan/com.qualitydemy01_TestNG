@@ -3,8 +3,8 @@ package pages;
 import org.openqa.selenium.support.PageFactory;
 import utilties.Driver;
 
-public class PageAnasayfa {
-    public PageAnasayfa(){
+public class HomePage {
+    public HomePage(){
         PageFactory.initElements(Driver.getDriver(),this);
     }
 
