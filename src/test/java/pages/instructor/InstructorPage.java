@@ -1,4 +1,4 @@
-package pages;
+package pages.instructor;
 
 public class InstructorPage {
 }

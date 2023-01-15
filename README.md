@@ -20,6 +20,7 @@ user ile ilgililer baska bir klasor altında olmalı mı?
 * git pull
 kendi branchimize geciş yapılmalı
 * git checkout asan
+* git merge main ile maindekileri kendi branchimize alalım
 
 4. yaptıgımız calısmalar;
 * git add .
