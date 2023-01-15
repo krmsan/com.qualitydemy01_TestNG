@@ -1,9 +1,23 @@
 # com.qualitydemy01_TestNG
-### Pages sayfaları formatı Page ile baslamalı.(PageHome)
+1. Pages sayfaları formatı Page ile bitmeli.(HomePage)
 
-### Locaterların formatı Tagname ile baslamalı (input_password, link_login, button_login seklinde olamalı)
+2.  Locaterların formatı Tagname ile baslamalı (input_password, link_login, button_login seklinde olamalı)
 acıklamak için yorum satırı eklenmeli.
 
-### Test methodlarında belirtilmiş ise @Test(groups = {"minireg1","smoke"}) seklinde tanımlar olamalı
+3. Test methodlarında belirtilmiş ise @Test(groups = {"minireg1","smoke"}) seklinde tanımlar olamalı
+4. Locate almadan önce ilgili Page de varmı bakılmalı
+5.  instructor ile ilgili testler bir packages altında 
+user ile ilgililer baska bir klasor altında olmalı mı? 
+## arkadaslar aklınıza gelen birsey var ise ekleyin toplantıda konusalım
 
-# arkadaslar aklınıza gelen birsey var ise ekleyin toplantıda konusalım
+# GİT
+1. Herkes kendi adına bir branch olsuturmalı
+* git branch asan    gibi
+2. Calısmalar sadece kendi branchinde yapılmalı
+
+3. Proje acıldıgında ilk olarak main branch te pull yapılıp
+kendi branchimize geciş yapılmalı
+
+4. pull request te bulunduktan sonra sorumludan dan baska kimse
+merge onayı yapmamalı.
+

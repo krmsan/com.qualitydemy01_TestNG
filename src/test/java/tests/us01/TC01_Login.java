@@ -2,7 +2,7 @@ package tests.us01;
 
 import org.testng.Assert;
 import org.testng.annotations.Test;
-import pages.PageLogin;
+import pages.LoginPage;
 import utilties.ConfigReader;
 import utilties.Driver;
 
@@ -12,7 +12,7 @@ public class TC01_Login {
     @Test
     public void test_login() {
         login();
-        PageLogin pageLogin=new PageLogin();
+        LoginPage pageLogin=new LoginPage();
         Assert.assertTrue(pageLogin.link_basariliGirisCourses.isDisplayed());
 
     }
@@ -22,7 +22,7 @@ public class TC01_Login {
 
         Driver.getDriver().get(ConfigReader.getProperty("Url"));
 
-        PageLogin pageLogin = new PageLogin();
+        LoginPage pageLogin = new LoginPage();
         pageLogin.cookieAccept.click();
         pageLogin.link_homePageLogin.click();
 
