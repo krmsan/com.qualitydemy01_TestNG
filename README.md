@@ -26,7 +26,13 @@ kendi branchimize geciş yapılmalı
 4. yaptıgımız calısmalar;
 * git add .
 * git commit -m "calısmanızla ilgili yorum yazınız"
-* git push
+* suan push etmiyoruz.
+* tekrar git checkout main yazıp
+* mainden git pull yapıyoruz
+* tekrar git checkout asan branch ine gectim
+* git merge main yazdım
+* artık ;
+* git push yazabilirim.
 
 5. pull request te bulunduktan sonra sorumludan dan baska kimse
 merge onayı yapmamalı.
@@ -39,5 +45,5 @@ url e gidip pull request talebinde bulunulmalı
 * Pushlayacagım proje guncel mi diye sormalımıyız
 * team lead her pushlamadan sonra pull requesti 
 * kabul edip merge yaparak projeyi gunceller
-* sonra tum team e proje guncellendi pull ediniz mesajı atmalı mı
+* sonra tum team e proje guncellendi pull ediniz mesajı atmalı mıj
 
